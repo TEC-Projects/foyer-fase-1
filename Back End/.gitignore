@@ -1,0 +1,7 @@
+.idea/
+__pycache__/
+foyer-backend/Foyer/__pycache__/
+foyer-backend/Foyer/Controllers/__pycache__/
+foyer-backend/Foyer/Graphql/__pycache__/
+foyer-backend/Foyer/Models/__pycache__/
+foyer-backend/Foyer/Models/DAO/__pycache__/
